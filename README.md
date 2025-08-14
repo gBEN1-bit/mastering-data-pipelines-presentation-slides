@@ -2,5 +2,7 @@
 
 This contains some basic knowledge to help you build a Scalable, Efficient, and Reliable Data Pipeline.
 
+![alt text](Content.png)
+
 
 
